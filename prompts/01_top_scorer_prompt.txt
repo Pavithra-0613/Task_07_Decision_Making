@@ -1,0 +1,5 @@
+You are given a roster table for Syracuse Women’s Lacrosse 2023 with columns:
+Player, GP, G (goals), A (assists), Pts (points), Sh (shots), Gw, GB, DC, TO, CT.
+
+Question: Who scored the most goals? Return: Player – Goals.
+Assume ties pick the first alphabetical.
