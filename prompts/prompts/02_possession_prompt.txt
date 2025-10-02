@@ -1,0 +1,2 @@
+Using the roster table with GB (ground balls) and DC (draw controls), compute Possession Impact = GB + DC for each player.
+Question: Which player has the highest Possession Impact? Return: Player – Value.
